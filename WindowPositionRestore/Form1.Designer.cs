@@ -1,4 +1,4 @@
-﻿namespace WindowPositionRestore
+﻿namespace StudyLayout
 {
     partial class Form1
     {

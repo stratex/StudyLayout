@@ -7,7 +7,7 @@ using System.IO;
 using System.Text;
 using System.Windows.Forms;
 
-namespace WindowPositionRestore
+namespace StudyLayout
 {
     class WindowPOS
     {

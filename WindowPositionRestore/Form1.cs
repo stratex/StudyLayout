@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Security.Principal;
 
-namespace WindowPositionRestore
+namespace StudyLayout
 {
     public partial class Form1 : Form
     {
